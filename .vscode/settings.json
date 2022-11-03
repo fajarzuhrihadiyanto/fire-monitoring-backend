@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e164291a-8eb8-437b-ab2e-3600241bd2e8/AppServices/subscriptions/e164291a-8eb8-437b-ab2e-3600241bd2e8/resourceGroups/my-development/providers/Microsoft.Web/sites/fire-monitoring-backend",
+    "appService.deploySubpath": "."
+}
