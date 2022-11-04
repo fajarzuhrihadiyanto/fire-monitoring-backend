@@ -24,6 +24,7 @@ app.get('/events', (req, res) => {
     'Cache-Control': 'no-cache'
   };
   res.writeHead(200, headers);
+  res.write('data: {}\n\n')
 
   const clientId = Date.now();
 
